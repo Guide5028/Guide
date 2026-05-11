@@ -36,7 +36,7 @@
 > Flutter + FastAPI + PostgreSQL + Google Maps
 - Cross-platform mobile app for musicians and venues
 - Real-time interaction and location features
-- [View Repository](#)
+- [View Repository](https://github.com/Guide5028/jamupproject)
 
 ### 🛍️ PUIPUI Fashion — E-Commerce Platform  
 > Vue.js + Vite + Deno 2.0 + Tailwind CSS
