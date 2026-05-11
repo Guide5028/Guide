@@ -42,13 +42,13 @@
 > Vue.js + Vite + Deno 2.0 + Tailwind CSS
 - Full-stack clothing e-commerce platform
 - Scalable architecture with UI/UX focus
-- [View Repository](https://github.com/PhilipHousdens/PUIPUI-Software-Metric-)
+- [View Repository](https://github.com/Guide5028/PUIPUI-Software-Metric)
 
 ### 🐢 ImageProcessingTurtle — AI Detection
 > Python + YOLO
 - AI-powered turtle detection system
 - Object detection and image segmentation
-- [View Repository](https://github.com/OwnNUphaT/ImageProcessingTurtle)
+- [View Repository](https://github.com/Guide5028/ImageProcessingTurtleHead)
 
 ### 📰 NLP News Summarizer
 > Vue.js + Python + NLP
